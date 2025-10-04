@@ -56,16 +56,16 @@ export default function SimulationGame() {
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            {/* <a
-              href="https://velora-nebddt.manus.space/"
+            <a
+              href="https://velora1.itch.io/velora"
               target="_blank"
               rel="noreferrer"
-              className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl 
+              className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl
                          bg-purple-600/80 hover:bg-purple-500 transition font-medium text-white"
             >
               <Play className="h-5 w-5" />
               Open Game in Browser
-            </a> */}
+            </a>
 
             <a
               href="https://drive.google.com/file/d/1FzgFDOetKZY1jCDXnpSsMTN5APms74sa/view?usp=drive_link"
