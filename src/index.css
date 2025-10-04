@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 :root {
   --velora-primary: #8f6df0;
   --velora-accent: #c084fc;
