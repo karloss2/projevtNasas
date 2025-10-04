@@ -8,10 +8,13 @@
     />
     <meta name="theme-color" content="#0b0616" />
     <title>VELORA — When Space Collides with Earth</title>
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Use relative path so it works under /projevtNasas/ -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
 </head>
 <body class="bg-[#080510] text-white">
 <div id="root"></div>
+<!-- Vite will rewrite this for production; keep relative import -->
 <script type="module" src="/src/main.jsx"></script>
 </body>
 </html>
